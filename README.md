@@ -1,4 +1,4 @@
-🍽️ Suswaad Canteen Website
+🍽️ Suswaad Canteen Website: 
 Welcome to the official website of Suswaad Canteen, designed to provide students and faculty with a seamless and delightful food ordering experience!
 
 ## 🚀 Live Preview
